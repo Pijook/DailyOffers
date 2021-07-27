@@ -1,0 +1,23 @@
+offers:
+  '1':
+    material: DIAMOND
+    amount: 5
+    price: 50.0
+  '2':
+    material: GRASS_BLOCK
+    amount: 64
+    price: 10.0
+  '3':
+    material: DIAMOND_PICKAXE
+    amount: 1
+    enchants:
+      DURABILITY: 2
+    price: 150.0
+  '4':
+    material: OBSIDIAN
+    amount: 1
+    price: 50.0
+  '5':
+    material: SANDSTONE
+    amount: 1
+    price: 25.0

@@ -1,0 +1,15 @@
+offers:
+  offersPerDay: 5
+  refreshHours:
+    - "12:00"
+    - "1:00"
+  maxBuysPerDay: 5
+gui:
+  rows: 6
+  title: "Dzienne oferty"
+  slotsWithOffers:
+    - 20
+    - 30
+    - 22
+    - 32
+    - 24

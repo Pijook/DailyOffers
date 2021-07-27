@@ -1,0 +1,14 @@
+name: DailyOffers
+author: Pijok
+api-version: 1.16
+main: pl.pijok.dailyoffers.DailyOffers
+version: 1.0
+depend:
+  - Vault
+commands:
+  dailyoffers:
+    usage: /dailyoffers
+    aliases: [daily, dailyoffer, dailyo, do]
+  adailyoffers:
+    usage: /adailyoffers
+    aliases: [adaily, ado, adailyo]
